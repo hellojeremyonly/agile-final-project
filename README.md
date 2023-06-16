@@ -1,4 +1,4 @@
-# This is IBM agile HONORS project 
+# This is IBM Agile Development and Scrum HONORS Project 
 
 ## Project Scenario
 In this scenario, i will play the roles of a product owner, scrum master, and developer. As a product owner, i will create stories for your team and organize these stories into a product backlog. As a scrum master, i will create a sprint milestone and make sure that a subset of the stories is ready to be placed in a sprint plan. As a developer, i will create the sprint backlog and execute some of the stories by moving them across the kanban board in a simulated sprint. 
